@@ -1,0 +1,25 @@
+{
+	"navList" : [
+    {
+      "name" : "首页",
+      "path" : "/",
+      "open" : true,
+      "index" : "1",
+      "icon" : "el-icon-location",
+      "children":[
+        {
+          "name" : "子",
+          "path" : "/",
+          "index" : "1-1"
+        }
+      ]
+    },
+    {
+      "name" : "next",
+      "path" : "/",
+      "index" : "2",
+      "open" : true,
+      "icon" : "el-icon-location"
+    }
+	]
+}
